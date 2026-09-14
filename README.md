@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%2C%20I'm%20Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <div align="center">
 
@@ -67,8 +67,6 @@ class Aakash:
 ### 🚀 HakiAPI
 > Production-grade Python framework for building API SDKs.
 
-[![HakiAPI](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=hakiapi&theme=tokyonight)](https://github.com/Gugilla-Aakash/hakiapi)
-
 **Highlights:** Auth • OAuth2 • Retries • Pagination • Typed Exceptions • Async
 
 **Tech:** `Python` `Requests` `OOP`
@@ -82,8 +80,6 @@ class Aakash:
 
 ### 🤖 Resume Screening ML
 > ML system to screen and rank resumes against job descriptions with NLP.
-
-[![Resume Screening](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=resume-screening-ml&theme=tokyonight)](https://github.com/Gugilla-Aakash/resume-screening-ml)
 
 **Highlights:** Resume Parsing • NLP • ML Prediction • Ranking
 
@@ -99,8 +95,6 @@ class Aakash:
 ### 🔍 AI GitHub Profile Analyzer
 > Audit any GitHub profile with AI reviews, AI chat, heatmaps & skill breakdowns.
 
-[![Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=AI-GitHub-Profile-Analyzer&theme=tokyonight)](https://github.com/Gugilla-Aakash/AI-GitHub-Profile-Analyzer)
-
 **Highlights:** AI Reviews • Chat Assistant • Heatmaps • Skill Analysis
 
 **Tech:** `FastAPI` `Next.js` `Redis` `Python`
@@ -112,8 +106,6 @@ class Aakash:
 
 ### 🛡️ ShieldSense
 > Developer-focused security / analysis tooling built with TypeScript.
-
-[![ShieldSense](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=shieldsense&theme=tokyonight)](https://github.com/Gugilla-Aakash/shieldsense)
 
 **Highlights:** TypeScript • Developer Tools • Security Insights
 
@@ -131,18 +123,14 @@ class Aakash:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gugilla-Aakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugilla-Aakash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/Gugilla-Aakash?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="followers" />
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/hakiapi?style=for-the-badge&logo=github&label=HakiAPI%20Stars" alt="hakiapi stars" />
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/resume-screening-ml?style=for-the-badge&logo=github&label=Resume%20ML%20Stars" alt="resume-screening-ml stars" />
+<img src="https://img.shields.io/github/last-commit/Gugilla-Aakash/hakiapi?style=for-the-badge&label=Last%20Commit" alt="last commit" />
 
-<br>
+<br><br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Gugilla-Aakash&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gugilla-Aakash&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gugilla-Aakash&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/Gugilla-Aakash" alt="Contribution chart" />
 
 </div>
 
