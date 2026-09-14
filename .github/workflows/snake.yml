@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+        uses: Gugilla-Aakash/snk/svg-only@main
         with:
           github_user_name: Gugilla-Aakash
           outputs: |
