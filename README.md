@@ -31,11 +31,12 @@ class Aakash:
     education = "B.Tech CSE (AI & Machine Learning)"
     focus = ["Artificial Intelligence", "Machine Learning", "Backend Development"]
     languages = ["Python", "JavaScript", "TypeScript", "C", "Bash"]
-    currently_building = ["HakiAPI", "AI GitHub Profile Analyzer", "ML Projects"]
+    currently_building = ["HakiAPI", "GramIntel", "AI Tools"]
     motto = "Build. Learn. Improve. Repeat."
 ```
 
-- 🔭 Currently working on **HakiAPI** — a production-grade Python framework for building API SDKs
+- 🔭 Currently working on **HakiAPI** + **GramIntel** (SIH 2026) — Python frameworks & full-stack AI apps
+- 🤝 Contributing to **teamai-cli** (Tencent) — making every team AI native
 - 🌱 Learning **Full-Stack AI apps (FastAPI + Next.js + Redis)** and advanced ML
 - ⚡ Fun fact: I daily-drive **Arch Linux + Hyprland + Neovim**
 - 💬 Ask me about **Python, API design, ML basics, developer tools**
@@ -78,14 +79,15 @@ class Aakash:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Resume Screening ML
-> ML system to screen and rank resumes against job descriptions with NLP.
+### 🌾 GramIntel
+> AI-driven hyper-local business advisory & financial structuring (MoSJE SIH 2026).
 
-**Highlights:** Resume Parsing • NLP • ML Prediction • Ranking
+**Highlights:** 6-signal feasibility • EMI planning • Multilingual • OTP portal
 
-**Tech:** `Python` `Scikit-Learn` `Pandas`
+**Tech:** `Next.js` `FastAPI` `SQLModel` `TypeScript`
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/resume-screening-ml)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/GramIntel)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://gram-intel-xb8y-six.vercel.app/)
 
 </td>
 </tr>
@@ -119,13 +121,27 @@ class Aakash:
 
 ---
 
+## 🤝 Open Source Contributions
+
+### 🛠️ teamai-cli — Contributor (Fork of Tencent/teamai-cli)
+> Make Every Team AI Native — shared skills, rules, MCP & knowledge for AI agents.
+
+**Highlights:** Skills distribution • Multi-agent (Claude, Codex, Cursor, OpenCode) • Recall & Knowledge Graph
+
+**Tech:** `TypeScript` `Node.js`
+
+[![Fork](https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/teamai-cli)
+[![Upstream](https://img.shields.io/badge/Upstream_Tencent-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tencent/teamai-cli)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/Gugilla-Aakash?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="followers" />
 <img src="https://img.shields.io/github/stars/Gugilla-Aakash/hakiapi?style=for-the-badge&logo=github&label=HakiAPI%20Stars" alt="hakiapi stars" />
-<img src="https://img.shields.io/github/stars/Gugilla-Aakash/resume-screening-ml?style=for-the-badge&logo=github&label=Resume%20ML%20Stars" alt="resume-screening-ml stars" />
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/GramIntel?style=for-the-badge&logo=github&label=GramIntel%20Stars" alt="GramIntel stars" />
 <img src="https://img.shields.io/github/last-commit/Gugilla-Aakash/hakiapi?style=for-the-badge&label=Last%20Commit" alt="last commit" />
 
 <br><br>
