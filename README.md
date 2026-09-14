@@ -1,189 +1,202 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%2C%20I'm%20Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-# 👋 Hi, I'm Gugilla Aakash
+<div align="center">
 
 ### AI & Machine Learning Student • Python Developer • Open Source Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Creating+Developer+Tools;Creator+of+HakiAPI;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Creating+Developer+Tools;Creator+of+HakiAPI;Full-Stack+AI+Apps+with+FastAPI+%2B+Next.js;Learning+Something+New+Every+Day" alt="Typing SVG" />
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=Gugilla-Aakash&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Gugilla-Aakash?label=Followers&style=flat&color=0e75b6" alt="followers" />
 <a href="mailto:gugillaaakash6@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+<a href="https://github.com/Gugilla-Aakash">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
 <a href="https://pypi.org/project/hakiapi/">
-<img src="https://img.shields.io/badge/HakiAPI-PyPI-F97316?style=for-the-badge&logo=pypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HakiAPI-PyPI-3775A9?style=flat&logo=pypi&logoColor=white" alt="HakiAPI on PyPI" />
 </a>
-
-<img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```python
 class Aakash:
-
     education = "B.Tech CSE (AI & Machine Learning)"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Python",
-        "Developer Tools",
-        "Backend Development",
-        "Open Source"
-    ]
-
-    currently_building = [
-        "HakiAPI",
-        "Machine Learning Projects",
-        "AI Applications"
-    ]
-
+    focus = ["Artificial Intelligence", "Machine Learning", "Backend Development"]
+    languages = ["Python", "JavaScript", "TypeScript", "C", "Bash"]
+    currently_building = ["HakiAPI", "AI GitHub Profile Analyzer", "ML Projects"]
     motto = "Build. Learn. Improve. Repeat."
 ```
 
+- 🔭 Currently working on **HakiAPI** — a production-grade Python framework for building API SDKs
+- 🌱 Learning **Full-Stack AI apps (FastAPI + Next.js + Redis)** and advanced ML
+- ⚡ Fun fact: I daily-drive **Arch Linux + Hyprland + Neovim**
+- 💬 Ask me about **Python, API design, ML basics, developer tools**
+
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,javascript,bash"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux"/>
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,c,bash" height="40" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28" /> |
+| **Backend & Frontend** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react" height="40" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" height="40" /> |
+| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim" height="40" /> |
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🚀 HakiAPI
+> Production-grade Python framework for building API SDKs.
 
-## 🚀 HakiAPI
+[![HakiAPI](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=hakiapi&theme=tokyonight)](https://github.com/Gugilla-Aakash/hakiapi)
 
-Production-grade Python framework for building API SDKs.
+**Highlights:** Auth • OAuth2 • Retries • Pagination • Typed Exceptions • Async
 
-**Highlights**
+**Tech:** `Python` `Requests` `OOP`
 
-- Authentication
-- OAuth2
-- Retries
-- Pagination
-- Typed Exceptions
-
-**Tech**
-
-Python • Requests • OOP
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/hakiapi)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/hakiapi/)
+[![Docs](https://img.shields.io/badge/Docs-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Gugilla-Aakash/hakiapi-docs)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 Resume Screening ML
+> ML system to screen and rank resumes against job descriptions with NLP.
 
-## 🤖 Resume Screening ML
+[![Resume Screening](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=resume-screening-ml&theme=tokyonight)](https://github.com/Gugilla-Aakash/resume-screening-ml)
 
-Machine Learning model for intelligent resume classification.
+**Highlights:** Resume Parsing • NLP • ML Prediction • Ranking
 
-**Highlights**
+**Tech:** `Python` `Scikit-Learn` `Pandas`
 
-- Resume Parsing
-- NLP
-- ML Prediction
-
-**Tech**
-
-Python • Scikit-Learn • Pandas
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/resume-screening-ml)
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
+### 🔍 AI GitHub Profile Analyzer
+> Audit any GitHub profile with AI reviews, AI chat, heatmaps & skill breakdowns.
 
+[![Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=AI-GitHub-Profile-Analyzer&theme=tokyonight)](https://github.com/Gugilla-Aakash/AI-GitHub-Profile-Analyzer)
 
+**Highlights:** AI Reviews • Chat Assistant • Heatmaps • Skill Analysis
 
+**Tech:** `FastAPI` `Next.js` `Redis` `Python`
 
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/AI-GitHub-Profile-Analyzer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ ShieldSense
+> Developer-focused security / analysis tooling built with TypeScript.
+
+[![ShieldSense](https://github-readme-stats.vercel.app/api/pin/?username=Gugilla-Aakash&repo=shieldsense&theme=tokyonight)](https://github.com/Gugilla-Aakash/shieldsense)
+
+**Highlights:** TypeScript • Developer Tools • Security Insights
+
+**Tech:** `TypeScript` `Node.js`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/shieldsense)
+
+</td>
+</tr>
 </table>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gugilla-Aakash&theme=github_dark)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gugilla-Aakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugilla-Aakash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gugilla-Aakash&theme=github_dark)
+<br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gugilla-Aakash&theme=github_dark)
+<img width="60%" src="https://streak-stats.demolab.com?user=Gugilla-Aakash&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gugilla-Aakash&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gugilla-Aakash&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 
 </div>
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Goals
 
-- 🤖 Become a skilled AI Engineer
-- 🚀 Grow HakiAPI into a widely-used Python framework
-- 🧠 Build impactful Machine Learning projects
-- 🌍 Contribute to the open-source ecosystem
-- 📚 Learn something new every day
+| Goal | Focus |
+| :--- | :--- |
+| 🤖 Become a skilled AI Engineer | Deep Learning • LLMs • MLOps |
+| 🚀 Grow HakiAPI | Docs • Tests • Community • PyPI adoption |
+| 🧠 Ship impactful ML projects | NLP • Real-world datasets • Deployment |
+| 🌍 Contribute to open source | PRs • Issues • Maintaining tools |
+| 📚 Learn daily | Full-stack AI • System design |
 
 ---
 
-# 💻 Development Environment
+## 💻 Development Environment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyprland-00DDB3?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=gnuterminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
 
 ```text
-OS              Arch Linux
-Editor          Neovim
-Terminal        Kitty
-WM              Hyprland
-Browser         Brave
-Language        Python
+OS        Arch Linux + Hyprland
+Editor    Neovim
+Terminal  Kitty
+Browser   Brave
+Language  Python / TypeScript
 ```
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-📧 **gugillaaakash6@gmail.com**
+<a href="mailto:gugillaaakash6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gugillaaakash6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Gugilla-Aakash">
+  <img src="https://img.shields.io/badge/GitHub-@Gugilla--Aakash-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-If you like what I'm building, feel free to explore my repositories ⭐
+<br><br>
+
+If you like what I'm building, explore my repos and leave a ⭐ — I’m open to collaboration on AI / Python tools.
 
 </div>
 
@@ -191,8 +204,10 @@ If you like what I'm building, feel free to explore my repositories ⭐
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Gugilla-Aakash/Gugilla-Aakash/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
