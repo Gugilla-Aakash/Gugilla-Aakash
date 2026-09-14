@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60">
+  <desc>Animated wave divider</desc>
+  <style>
+    .wave{animation:drift linear infinite}
+    .back{animation-duration:11s}
+    .front{animation-duration:7s}
+    @keyframes drift{to{transform:translateX(-300px)}}
+    @media (prefers-reduced-motion: reduce){.wave{animation:none}}
+  </style>
+  <!-- back layer: midline y=30, amplitude 22, period 300 -->
+  <path class="wave back" fill="#38BDF8" opacity="0.22" d="M-300,60 L-300,30 Q-225,8 -150,30 T0,30 T150,30 T300,30 T450,30 T600,30 T750,30 T900,30 T1050,30 T1200,30 T1350,30 T1500,30 L1500,60 Z"/>
+  <!-- front layer: midline y=34, amplitude 14, period 300, phase-shifted -->
+  <path class="wave front" fill="#38BDF8" opacity="0.38" d="M-300,60 L-300,34 Q-225,48 -150,34 T0,34 T150,34 T300,34 T450,34 T600,34 T750,34 T900,34 T1050,34 T1200,34 T1350,34 T1500,34 L1500,60 Z"/>
+</svg>

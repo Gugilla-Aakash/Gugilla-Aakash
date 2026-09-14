@@ -58,7 +58,9 @@ class Aakash:
 
 </div>
 
----
+<div align="center">
+<img width="100%" src="assets/wave-divider.svg" alt="" />
+</div>
 
 ## 🌟 Featured Projects
 
@@ -158,7 +160,9 @@ class Aakash:
 <a href="https://github.com/Tencent/teamai-cli"><img src="https://img.shields.io/badge/Upstream_Tencent-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Upstream" /></a>
 <a href="https://www.npmjs.com/package/teamai-cli"><img src="https://img.shields.io/npm/v/teamai-cli?style=for-the-badge&logo=npm&logoColor=white&label=npm" alt="npm" /></a>
 
----
+<div align="center">
+<img width="100%" src="assets/wave-divider.svg" alt="" />
+</div>
 
 ## 📊 GitHub Stats
 
