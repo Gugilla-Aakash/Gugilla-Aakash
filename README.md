@@ -8,16 +8,16 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Gugilla-Aakash&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Gugilla-Aakash?label=Followers&style=flat&color=0e75b6" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=Gugilla-Aakash&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Gugilla-Aakash?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
 <a href="mailto:gugillaaakash6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Gugilla-Aakash">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://pypi.org/project/hakiapi/">
-  <img src="https://img.shields.io/badge/HakiAPI-PyPI-3775A9?style=flat&logo=pypi&logoColor=white" alt="HakiAPI on PyPI" />
+  <img src="https://img.shields.io/badge/HakiAPI-PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="HakiAPI on PyPI" />
 </a>
 
 </div>
@@ -50,7 +50,8 @@ class Aakash:
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,c,bash" height="40" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40" /> |
+| **ML Libraries** | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28" /> |
 | **Backend & Frontend** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react" height="40" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" height="40" /> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim" height="40" /> |
@@ -68,13 +69,18 @@ class Aakash:
 ### 🚀 HakiAPI
 > Production-grade Python framework for building API SDKs.
 
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/hakiapi?style=flat-square&label=stars" alt="hakiapi stars" />
+<img src="https://img.shields.io/github/forks/Gugilla-Aakash/hakiapi?style=flat-square&label=forks" alt="hakiapi forks" />
+
 **Highlights:** Auth • OAuth2 • Retries • Pagination • Typed Exceptions • Async
 
-**Tech:** `Python` `Requests` `OOP`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Requests-FF3633?style=flat-square&logo=python&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Async-38BDF8?style=flat-square" height="22" />
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/hakiapi)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/hakiapi/)
-[![Docs](https://img.shields.io/badge/Docs-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Gugilla-Aakash/hakiapi-docs)
+<a href="https://github.com/Gugilla-Aakash/hakiapi"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://pypi.org/project/hakiapi/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+<a href="https://github.com/Gugilla-Aakash/hakiapi-docs"><img src="https://img.shields.io/badge/Docs-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -82,12 +88,17 @@ class Aakash:
 ### 🌾 GramIntel
 > AI-driven hyper-local business advisory & financial structuring (MoSJE SIH 2026).
 
+<img src="https://img.shields.io/badge/SIH_2026-Hackathon-7C3AED?style=for-the-badge&logo=trophy&logoColor=white" height="28" />
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/GramIntel?style=flat-square&label=stars" alt="GramIntel stars" />
+
 **Highlights:** 6-signal feasibility • EMI planning • Multilingual • OTP portal
 
-**Tech:** `Next.js` `FastAPI` `SQLModel` `TypeScript`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22" />
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/GramIntel)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://gram-intel-xb8y-six.vercel.app/)
+<a href="https://github.com/Gugilla-Aakash/GramIntel"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://gram-intel-xb8y-six.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 
 </td>
 </tr>
@@ -97,11 +108,17 @@ class Aakash:
 ### 🔍 AI GitHub Profile Analyzer
 > Audit any GitHub profile with AI reviews, AI chat, heatmaps & skill breakdowns.
 
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/AI-GitHub-Profile-Analyzer?style=flat-square&label=stars" alt="analyzer stars" />
+<img src="https://img.shields.io/github/forks/Gugilla-Aakash/AI-GitHub-Profile-Analyzer?style=flat-square&label=forks" alt="analyzer forks" />
+
 **Highlights:** AI Reviews • Chat Assistant • Heatmaps • Skill Analysis
 
-**Tech:** `FastAPI` `Next.js` `Redis` `Python`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" />
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/AI-GitHub-Profile-Analyzer)
+<a href="https://github.com/Gugilla-Aakash/AI-GitHub-Profile-Analyzer"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -109,11 +126,15 @@ class Aakash:
 ### 🛡️ ShieldSense
 > Developer-focused security / analysis tooling built with TypeScript.
 
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/shieldsense?style=flat-square&label=stars" alt="shieldsense stars" />
+<img src="https://img.shields.io/github/forks/Gugilla-Aakash/shieldsense?style=flat-square&label=forks" alt="shieldsense forks" />
+
 **Highlights:** TypeScript • Developer Tools • Security Insights
 
-**Tech:** `TypeScript` `Node.js`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="22" />
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/shieldsense)
+<a href="https://github.com/Gugilla-Aakash/shieldsense"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
@@ -128,10 +149,14 @@ class Aakash:
 
 **Highlights:** Skills distribution • Multi-agent (Claude, Codex, Cursor, OpenCode) • Recall & Knowledge Graph
 
-**Tech:** `TypeScript` `Node.js`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="22" />
 
-[![Fork](https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gugilla-Aakash/teamai-cli)
-[![Upstream](https://img.shields.io/badge/Upstream_Tencent-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tencent/teamai-cli)
+<br>
+
+<a href="https://github.com/Gugilla-Aakash/teamai-cli"><img src="https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork" /></a>
+<a href="https://github.com/Tencent/teamai-cli"><img src="https://img.shields.io/badge/Upstream_Tencent-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Upstream" /></a>
+<a href="https://www.npmjs.com/package/teamai-cli"><img src="https://img.shields.io/npm/v/teamai-cli?style=for-the-badge&logo=npm&logoColor=white&label=npm" alt="npm" /></a>
 
 ---
 
@@ -139,12 +164,12 @@ class Aakash:
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Gugilla-Aakash?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="followers" />
-<img src="https://img.shields.io/github/stars/Gugilla-Aakash/hakiapi?style=for-the-badge&logo=github&label=HakiAPI%20Stars" alt="hakiapi stars" />
-<img src="https://img.shields.io/github/stars/Gugilla-Aakash/GramIntel?style=for-the-badge&logo=github&label=GramIntel%20Stars" alt="GramIntel stars" />
-<img src="https://img.shields.io/github/last-commit/Gugilla-Aakash/hakiapi?style=for-the-badge&label=Last%20Commit" alt="last commit" />
+<img src="https://img.shields.io/github/followers/Gugilla-Aakash?style=flat-square&logo=github&label=Followers&color=0e75b6" alt="followers" />
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/hakiapi?style=flat-square&logo=github&label=HakiAPI%20Stars" alt="hakiapi stars" />
+<img src="https://img.shields.io/github/stars/Gugilla-Aakash/GramIntel?style=flat-square&logo=github&label=GramIntel%20Stars" alt="GramIntel stars" />
+<img src="https://img.shields.io/github/last-commit/Gugilla-Aakash/hakiapi?style=flat-square&label=Last%20Commit" alt="last commit" />
 
-<br><br>
+<br>
 
 <img width="100%" src="https://ghchart.rshah.org/38BDF8/Gugilla-Aakash" alt="Contribution chart" />
 
@@ -154,13 +179,14 @@ class Aakash:
 
 ## 🎯 Current Goals
 
-| Goal | Focus |
-| :--- | :--- |
-| 🤖 Become a skilled AI Engineer | Deep Learning • LLMs • MLOps |
-| 🚀 Grow HakiAPI | Docs • Tests • Community • PyPI adoption |
-| 🧠 Ship impactful ML projects | NLP • Real-world datasets • Deployment |
-| 🌍 Contribute to open source | PRs • Issues • Maintaining tools |
-| 📚 Learn daily | Full-stack AI • System design |
+| Goal | Focus | Status |
+| :--- | :--- | :--- |
+| 🤖 Become a skilled AI Engineer | Deep Learning • LLMs • MLOps | 🟢 Active |
+| 🚀 Grow HakiAPI | Docs • Tests • Community • PyPI adoption | 🚀 Scaling |
+| 🌾 Ship GramIntel for SIH 2026 | Feasibility • Deployment • Demo | 🟢 Active |
+| 🧠 Ship impactful ML projects | NLP • Real-world datasets • Deployment | 🌱 Building |
+| 🌍 Contribute to open source | PRs • Issues • teamai-cli | 🟢 Active |
+| 📚 Learn daily | Full-stack AI • System design | 🌱 Learning |
 
 ---
 
@@ -175,15 +201,9 @@ class Aakash:
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-</div>
+*Arch + Hyprland • Neovim • Kitty • Brave*
 
-```text
-OS        Arch Linux + Hyprland
-Editor    Neovim
-Terminal  Kitty
-Browser   Brave
-Language  Python / TypeScript
-```
+</div>
 
 ---
 
@@ -191,6 +211,8 @@ Language  Python / TypeScript
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Open_to_Collaboration-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration" />
+<br>
 <a href="mailto:gugillaaakash6@gmail.com">
   <img src="https://img.shields.io/badge/Email-gugillaaakash6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
